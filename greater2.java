@@ -21,17 +21,8 @@ public class greater2
             {
                 max=b;
             }
-
-
-//            if (b<=min)
-//            {
-//                min=b;
-//            }
         }
         System.out.println("the largest number is "+max);
-//        System.out.println("the smallest number is "+min);
-
-
     }
 
 
